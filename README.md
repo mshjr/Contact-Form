@@ -9,8 +9,6 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
   - [Screenshot](#screenshot)
   - [Links](#links)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
