@@ -27,4 +27,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://mine.github.io/contact-form/](https://mine.github.io/contact-form/)
+- Live Site URL: [https:/](https:/)
